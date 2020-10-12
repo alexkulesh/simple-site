@@ -1,0 +1,9 @@
+# Ignored files
+.settings
+target/
+.classpath
+.project
+.vscode/
+.idea/
+*.iml
+*.class
